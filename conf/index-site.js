@@ -1,0 +1,1 @@
+window.API_ADMINFRONT_PROD = 'http://36.7.87.9:8002'
